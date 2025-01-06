@@ -1,0 +1,11 @@
+[project]
+authors = ["Franklin Chen <franklinchen@franklinchen.com>"]
+channels = ["conda-forge"]
+description = "Add a short description here"
+name = "test-pixi"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
